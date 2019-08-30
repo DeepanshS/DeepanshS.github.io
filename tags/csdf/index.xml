@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSDF | Deepansh Srivastava | chemistry</title>
+    <link>https://DeepanshS.github.io/tags/csdf/</link>
+      <atom:link href="https://DeepanshS.github.io/tags/csdf/index.xml" rel="self" type="application/rss+xml" />
+    <description>CSDF</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Deepansh Srivastava</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://DeepanshS.github.io/img/icon-192.png</url>
+      <title>CSDF</title>
+      <link>https://DeepanshS.github.io/tags/csdf/</link>
+    </image>
+    
+    <item>
+      <title>csdmpy</title>
+      <link>https://DeepanshS.github.io/project/csdmpy/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/project/csdmpy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

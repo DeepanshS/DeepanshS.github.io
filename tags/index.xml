@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Deepansh Srivastava | chemistry</title>
+    <link>https://DeepanshS.github.io/tags/</link>
+      <atom:link href="https://DeepanshS.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Deepansh Srivastava</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://DeepanshS.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://DeepanshS.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>CSDF</title>
+      <link>https://DeepanshS.github.io/tags/csdf/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/csdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSDM</title>
+      <link>https://DeepanshS.github.io/tags/csdm/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/csdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Core Scientific Data Model</title>
+      <link>https://DeepanshS.github.io/tags/core-scientific-data-model/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/core-scientific-data-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Model</title>
+      <link>https://DeepanshS.github.io/tags/data-model/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/data-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>29Si NMR</title>
+      <link>https://DeepanshS.github.io/tags/29si-nmr/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/29si-nmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-couplings</title>
+      <link>https://DeepanshS.github.io/tags/j-couplings/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/j-couplings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NMR</title>
+      <link>https://DeepanshS.github.io/tags/nmr/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/nmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Si-O-Si</title>
+      <link>https://DeepanshS.github.io/tags/si-o-si/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/si-o-si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>silica glass</title>
+      <link>https://DeepanshS.github.io/tags/silica-glass/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/silica-glass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-coupling</title>
+      <link>https://DeepanshS.github.io/tags/j-coupling/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/j-coupling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NMR lineshape</title>
+      <link>https://DeepanshS.github.io/tags/nmr-lineshape/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/nmr-lineshape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mrsimulator</title>
+      <link>https://DeepanshS.github.io/tags/mrsimulator/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/mrsimulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssNMR</title>
+      <link>https://DeepanshS.github.io/tags/ssnmr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/ssnmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quadrupolar</title>
+      <link>https://DeepanshS.github.io/tags/quadrupolar/</link>
+      <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/quadrupolar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
