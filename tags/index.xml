@@ -5,7 +5,7 @@
     <link>https://DeepanshS.github.io/tags/</link>
       <atom:link href="https://DeepanshS.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Deepansh Srivastava</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Deepansh Srivastava</copyright><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DeepanshS.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,90 @@
     </image>
     
     <item>
-      <title>CSDF</title>
-      <link>https://DeepanshS.github.io/tags/csdf/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://DeepanshS.github.io/tags/csdf/</guid>
+      <title>CSA</title>
+      <link>https://DeepanshS.github.io/tags/csa/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/csa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear inversion</title>
+      <link>https://DeepanshS.github.io/tags/linear-inversion/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/linear-inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral inversion</title>
+      <link>https://DeepanshS.github.io/tags/spectral-inversion/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/spectral-inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spinning sidebands</title>
+      <link>https://DeepanshS.github.io/tags/spinning-sidebands/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/spinning-sidebands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssNMR</title>
+      <link>https://DeepanshS.github.io/tags/ssnmr/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/ssnmr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSDM</title>
       <link>https://DeepanshS.github.io/tags/csdm/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://DeepanshS.github.io/tags/csdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-dimensional Dataset</title>
+      <link>https://DeepanshS.github.io/tags/multi-dimensional-dataset/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/multi-dimensional-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal file-format</title>
+      <link>https://DeepanshS.github.io/tags/universal-file-format/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/universal-file-format/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mrsimulator</title>
+      <link>https://DeepanshS.github.io/tags/mrsimulator/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/mrsimulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NMR</title>
+      <link>https://DeepanshS.github.io/tags/nmr/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/nmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NMR spectrum simulation</title>
+      <link>https://DeepanshS.github.io/tags/nmr-spectrum-simulation/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/nmr-spectrum-simulation/</guid>
       <description></description>
     </item>
     
@@ -33,6 +105,14 @@
       <link>https://DeepanshS.github.io/tags/core-scientific-data-model/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://DeepanshS.github.io/tags/core-scientific-data-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSDF</title>
+      <link>https://DeepanshS.github.io/tags/csdf/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/csdf/</guid>
       <description></description>
     </item>
     
@@ -53,18 +133,18 @@
     </item>
     
     <item>
-      <title>J-couplings</title>
-      <link>https://DeepanshS.github.io/tags/j-couplings/</link>
+      <title>J-coupling</title>
+      <link>https://DeepanshS.github.io/tags/j-coupling/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://DeepanshS.github.io/tags/j-couplings/</guid>
+      <guid>https://DeepanshS.github.io/tags/j-coupling/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NMR</title>
-      <link>https://DeepanshS.github.io/tags/nmr/</link>
+      <title>J-couplings</title>
+      <link>https://DeepanshS.github.io/tags/j-couplings/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://DeepanshS.github.io/tags/nmr/</guid>
+      <guid>https://DeepanshS.github.io/tags/j-couplings/</guid>
       <description></description>
     </item>
     
@@ -81,38 +161,6 @@
       <link>https://DeepanshS.github.io/tags/silica-glass/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://DeepanshS.github.io/tags/silica-glass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J-coupling</title>
-      <link>https://DeepanshS.github.io/tags/j-coupling/</link>
-      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://DeepanshS.github.io/tags/j-coupling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NMR lineshape</title>
-      <link>https://DeepanshS.github.io/tags/nmr-lineshape/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://DeepanshS.github.io/tags/nmr-lineshape/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mrsimulator</title>
-      <link>https://DeepanshS.github.io/tags/mrsimulator/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://DeepanshS.github.io/tags/mrsimulator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ssNMR</title>
-      <link>https://DeepanshS.github.io/tags/ssnmr/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://DeepanshS.github.io/tags/ssnmr/</guid>
       <description></description>
     </item>
     

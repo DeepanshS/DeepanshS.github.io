@@ -1,47 +1,105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://DeepanshS.github.io/tags/csdf/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://DeepanshS.github.io/tags/csa/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/tags/linear-inversion/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/project/mrinversion/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/project/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/tags/spectral-inversion/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/tags/spinning-sidebands/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/tags/ssnmr/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/tags/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/publication/7/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://DeepanshS.github.io/tags/csdm/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/tags/multi-dimensional-dataset/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/publication/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/tags/universal-file-format/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/tags/mrsimulator/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/project/mrsimulator/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/tags/nmr/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DeepanshS.github.io/tags/nmr-spectrum-simulation/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://DeepanshS.github.io/tags/core-scientific-data-model/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://DeepanshS.github.io/tags/data-model/</loc>
+    <loc>https://DeepanshS.github.io/tags/csdf/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://DeepanshS.github.io/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://DeepanshS.github.io/project/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://DeepanshS.github.io/tags/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -50,9 +108,13 @@
   </url>
   
   <url>
+    <loc>https://DeepanshS.github.io/tags/data-model/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://DeepanshS.github.io/tags/29si-nmr/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -61,32 +123,23 @@
   </url>
   
   <url>
+    <loc>https://DeepanshS.github.io/tags/j-coupling/</loc>
+    <lastmod>2018-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://DeepanshS.github.io/tags/j-couplings/</loc>
-    <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://DeepanshS.github.io/tags/nmr/</loc>
-    <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://DeepanshS.github.io/publication/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://DeepanshS.github.io/tags/si-o-si/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://DeepanshS.github.io/tags/silica-glass/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -95,37 +148,8 @@
   </url>
   
   <url>
-    <loc>https://DeepanshS.github.io/tags/j-coupling/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://DeepanshS.github.io/publication/4/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DeepanshS.github.io/tags/nmr-lineshape/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://DeepanshS.github.io/tags/mrsimulator/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://DeepanshS.github.io/project/mrsimulator/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DeepanshS.github.io/tags/ssnmr/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -136,7 +160,6 @@
   <url>
     <loc>https://DeepanshS.github.io/tags/quadrupolar/</loc>
     <lastmod>2013-09-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -159,12 +182,10 @@
   
   <url>
     <loc>https://DeepanshS.github.io/authors/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://DeepanshS.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

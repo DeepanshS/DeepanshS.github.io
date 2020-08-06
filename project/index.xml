@@ -5,7 +5,7 @@
     <link>https://DeepanshS.github.io/project/</link>
       <atom:link href="https://DeepanshS.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Deepansh Srivastava</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Deepansh Srivastava</copyright><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DeepanshS.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>csdmpy</title>
-      <link>https://DeepanshS.github.io/project/csdmpy/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://DeepanshS.github.io/project/csdmpy/</guid>
+      <title>mrinversion</title>
+      <link>https://DeepanshS.github.io/project/mrinversion/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/project/mrinversion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mrsimulator</title>
       <link>https://DeepanshS.github.io/project/mrsimulator/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://DeepanshS.github.io/project/mrsimulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>csdmpy</title>
+      <link>https://DeepanshS.github.io/project/csdmpy/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/project/csdmpy/</guid>
       <description></description>
     </item>
     
