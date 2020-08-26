@@ -5,7 +5,7 @@
     <link>https://DeepanshS.github.io/authors/</link>
       <atom:link href="https://DeepanshS.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Deepansh Srivastava</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Deepansh Srivastava</copyright>
     <image>
       <url>https://DeepanshS.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -17,12 +17,11 @@
       <link>https://DeepanshS.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://DeepanshS.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I work on developing solid-state magnetic resonance methods for characterizing
-amorphous and crystalline materials. I also develop numerical libraries in C and
-python for simulating magnetic resonance spectrum of amorphous and crystalline materials.
-I am also involved in developing library tools for processing and analyzing the
-solid-state magnetic resonance spectrum of disordered and amorphous materials
-using linear-inversion and machine learning approaches.&lt;/p&gt;
+      <description>&lt;p&gt;I work on developing/improving solid-state magnetic resonance methods for better
+characterization of amorphous and crystalline materials. I also develop numerical
+libraries in C and python for simulating, processing, and analyzing the multi-dimensional
+magnetic resonance spectrum of amorphous and crystalline materials using statistical
+learning, linear-inversions, and machine learning approaches.&lt;/p&gt;
 </description>
     </item>
     

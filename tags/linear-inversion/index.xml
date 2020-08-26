@@ -5,12 +5,23 @@
     <link>https://DeepanshS.github.io/tags/linear-inversion/</link>
       <atom:link href="https://DeepanshS.github.io/tags/linear-inversion/index.xml" rel="self" type="application/rss+xml" />
     <description>Linear inversion</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Deepansh Srivastava</copyright><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Deepansh Srivastava</copyright><lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DeepanshS.github.io/img/icon-192.png</url>
       <title>Linear inversion</title>
       <link>https://DeepanshS.github.io/tags/linear-inversion/</link>
     </image>
+    
+    <item>
+      <title>Statistical Learning of NMR tensors from 2D Isotropic/Anisotropic Correlation Nuclear Magnetic Resonance Spectra</title>
+      <link>https://DeepanshS.github.io/publication/8/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/publication/8/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>mrinversion</title>

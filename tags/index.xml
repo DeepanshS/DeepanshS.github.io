@@ -5,7 +5,7 @@
     <link>https://DeepanshS.github.io/tags/</link>
       <atom:link href="https://DeepanshS.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Deepansh Srivastava</copyright><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Deepansh Srivastava</copyright><lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DeepanshS.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,74 @@
     </image>
     
     <item>
-      <title>CSA</title>
-      <link>https://DeepanshS.github.io/tags/csa/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://DeepanshS.github.io/tags/csa/</guid>
+      <title>Glass NMR</title>
+      <link>https://DeepanshS.github.io/tags/glass-nmr/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/glass-nmr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linear inversion</title>
       <link>https://DeepanshS.github.io/tags/linear-inversion/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://DeepanshS.github.io/tags/linear-inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAF</title>
+      <link>https://DeepanshS.github.io/tags/maf/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/maf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAT</title>
+      <link>https://DeepanshS.github.io/tags/mat/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/mat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NMR</title>
+      <link>https://DeepanshS.github.io/tags/nmr/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/nmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NMR tensors</title>
+      <link>https://DeepanshS.github.io/tags/nmr-tensors/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/nmr-tensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PASS</title>
+      <link>https://DeepanshS.github.io/tags/pass/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/pass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical learning</title>
+      <link>https://DeepanshS.github.io/tags/statistical-learning/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/statistical-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSA</title>
+      <link>https://DeepanshS.github.io/tags/csa/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/csa/</guid>
       <description></description>
     </item>
     
@@ -77,6 +133,22 @@
     </item>
     
     <item>
+      <title>Analysis</title>
+      <link>https://DeepanshS.github.io/tags/analysis/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Czjzek</title>
+      <link>https://DeepanshS.github.io/tags/czjzek/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/czjzek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mrsimulator</title>
       <link>https://DeepanshS.github.io/tags/mrsimulator/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
@@ -85,18 +157,18 @@
     </item>
     
     <item>
-      <title>NMR</title>
-      <link>https://DeepanshS.github.io/tags/nmr/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://DeepanshS.github.io/tags/nmr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>NMR spectrum simulation</title>
       <link>https://DeepanshS.github.io/tags/nmr-spectrum-simulation/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://DeepanshS.github.io/tags/nmr-spectrum-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>https://DeepanshS.github.io/tags/simulation/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://DeepanshS.github.io/tags/simulation/</guid>
       <description></description>
     </item>
     
